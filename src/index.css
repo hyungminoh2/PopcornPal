@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+
 :root {
   --color-primary: #6741d9;
   --color-primary-light: #7950f2;
@@ -425,7 +427,6 @@ FONT SIZE SYSTEM (px)
   transform: scale(0.97);
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
 .logo h1 {
   font-family: "Bangers", cursive; /* or 'Orbitron', sans-serif */
   font-size: 3rem; /* bigger for emphasis */
